@@ -25,7 +25,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".map" />
-        <activity android:name=".shopping"></activity>
+        <activity android:name=".shopping" />
+        <activity android:name=".buy"></activity>
     </application>
 
 </manifest>
