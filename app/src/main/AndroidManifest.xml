@@ -24,7 +24,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".map"></activity>
+        <activity android:name=".map" />
+        <activity android:name=".shopping"></activity>
     </application>
 
 </manifest>
